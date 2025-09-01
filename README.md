@@ -1,8 +1,5 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=140&color=eb85b1&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
 <h1 align="center">Olá! Eu sou a Malu 🩷</h1>
-<div align="left">
-<p></p>
-</div>
 
 ###
 
