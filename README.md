@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=malucodes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=eb85b140&text_color=eb85b1ff&ring_color=eb85b1&icon_color=eb85b1&rank_icon=github&locale=en&hide_border=true&custom_title=Malucodes's%20GitHub" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=malucodes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=eb85b140&text_color=black&ring_color=eb85b1&icon_color=black&rank_icon=github&locale=en&hide_border=true&custom_title=Malucodes's%20GitHub" height="140" alt="stats graph"  />
 </div>
 
 ###
