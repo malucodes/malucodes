@@ -25,12 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"/>
-  <img src="https://cdn.discordapp.com/attachments/1412175972488446073/1412181579899338762/1756751494191.png?ex=68b75c15&is=68b60a95&hm=7b6ab1b3260929c045d705855c8a2bb4bd99fc2ec43dc9830e79cf9283de26d5&" height="200"></img>
+  
 </div>
 
-###
-
-<div >
+<div align="center">
   <a href="https//www.linkedin.com/in/maria-luiza-benevides" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=eb85b1&logoColor=black&labelColor=black&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
@@ -40,4 +38,4 @@
   </a>
 </div>
 
-###
+<img src="https://cdn.discordapp.com/attachments/1412175972488446073/1412181579899338762/1756751494191.png?ex=68b75c15&is=68b60a95&hm=7b6ab1b3260929c045d705855c8a2bb4bd99fc2ec43dc9830e79cf9283de26d5&" height="200"></img>
