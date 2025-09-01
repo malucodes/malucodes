@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=160&color=eb85b1&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
+![](https://capsule-render.vercel.app/api?type=waving&height=140&color=eb85b1&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
 <h1 align="center">Olá! Eu sou a Malu 🩷</h1>
 <div align="left">
 <p></p>
@@ -8,6 +8,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malucodes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=eb85b140&text_color=eb85b1ff&ring_color=eb85b1&icon_color=eb85b1&rank_icon=github&locale=en&hide_border=true&custom_title=Malucodes's%20GitHub" height="180" alt="stats graph"  />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=eb85b140&text_color=eb85b1&title_color=eb85b1&icon_color=eb85b1&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
