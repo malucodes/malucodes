@@ -6,16 +6,14 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=malucodes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=eb85b140&text_color=black&ring_color=eb85b1&icon_color=black&rank_icon=github&locale=en&hide_border=true&custom_title=Malucodes's%20GitHub" height="140" alt="stats graph"  />
-</div>
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=eb85b140&text_color=eb85b1&title_color=eb85b1&icon_color=eb85b1&hide_border=true" height="140" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malucodes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=eb85b140&text_color=black&ring_color=eb85b1&icon_color=eb85b1&rank_icon=github&locale=en&hide_border=true&custom_title=Malucodes's%20GitHub" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=eb85b140&text_color=black&title_color=eb85b1&icon_color=eb85b1&hide_border=true" height="170" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -31,12 +29,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https//www.linkedin.com/in/maria-luiza-benevides" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=eb85b1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=eb85b1&logoColor=black&labelColor=black&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
+  
   <a href="https//www.behance.net/marialbenevides" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=eb85b1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=&label=&color=eb85b1&logoColor=black&labelColor=black&style=for-the-badge" height="35" alt="behance logo"/>
   </a>
 </div>
 
