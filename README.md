@@ -1,11 +1,11 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=140&color=75513d&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
-<h1 align="center">Olá! Eu sou a Malu 🩷</h1>
+<h1 align="center">Olá! Eu sou a Malu 🤎</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malucodes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=7551340d&text_color=black&ring_color=75513d1&icon_color=75513d&rank_icon=github&locale=en&hide_border=true&custom_title=Malucodes's%20GitHub" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=7551340d&text_color=black&title_color=75513d401&icon_color=75513d&hide_border=true" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=malucodes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=7551340d&text_color=75513d&ring_color=75513d&icon_color=75513d&rank_icon=github&locale=en&hide_border=true&custom_title=Malucodes's%20GitHub" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=7551340d&text_color=75513d&title_color=75513d&icon_color=75513d&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
 ###
