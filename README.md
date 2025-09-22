@@ -26,11 +26,11 @@
 </div>
 
 <div align="center">
-  <a href="https//www.linkedin.com/in/maria-luiza-benevides" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-luiza-benevides" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=75513d&logoColor=black&labelColor=black&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
   
-  <a href="https//www.behance.net/marialbenevides" target="_blank">
+  <a href="https://www.behance.net/marialbenevides" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=&label=&color=75513d&logoColor=black&labelColor=black&style=for-the-badge" height="35" alt="behance logo"/>
   </a>
 </div>
