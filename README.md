@@ -82,25 +82,6 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
 
 ---
 
-## 📂 O que você vai ver aqui
-
-- Projetos da graduação  
-- Clones e recriações de interfaces  
-- Estudos práticos  
-- Ideias em desenvolvimento  
-
----
-
-## 📌 Em destaque
-
-- Orkut Clone  
-- Projetos acadêmicos  
-- Experimentos de interface  
-
----
-
-Se algum repositório for útil para você, fique à vontade para explorar e acompanhar minha trajetória por aqui.
-
 ###
 
 ## 🌐 Conecte-se comigo
@@ -121,14 +102,3 @@ Se algum repositório for útil para você, fique à vontade para explorar e aco
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malucodes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=7551340d&text_color=75513d&ring_color=75513d&icon_color=75513d&rank_icon=github&locale=en&hide_border=true&custom_title=Malucodes's%20GitHub" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&layout=compact&card_width=320&langs_count=5&bg_color=7551340d&text_color=75513d&title_color=75513d&icon_color=75513d&hide_border=true" height="140" />
-</div>
-
-###
-
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/1412175972488446073/1412181579899338762/1756751494191.png" height="200" />
-</div>
