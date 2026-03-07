@@ -18,6 +18,10 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
 - 💻 Projetos acadêmicos e práticos  
 - 🧩 Interesse em interfaces digitais e história da computação  
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=malucodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 </td>
 
 <td width="50%" valign="top">
@@ -72,7 +76,17 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
   <img src="https://assets.dio.me/3PNEUWCamlIqYrkN0lvXAvk-KWcSx6VbbNXT0og_5Mw/f:webp/q:80/w:120/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" height="90"/>
 </a>
 
+## 🌐 Conecte-se comigo
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/maria-luiza-benevides" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=75513d&logoColor=black&labelColor=black&style=for-the-badge" height="35"/>
+  </a>
+
+  <a href="https://www.behance.net/marialbenevides" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&label=&color=75513d&logoColor=black&labelColor=black&style=for-the-badge" height="35"/>
+  </a>
+</div>
 
 </div>
 </td>
@@ -99,6 +113,11 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malucodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
