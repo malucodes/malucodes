@@ -9,12 +9,12 @@
 <tr>
 <td width="50%" valign="top">
 
-## 👩🏻‍💻 Sobre mim
+##   Sobre mim
 
 Estudante de Ciência da Computação construindo projetos, explorando conceitos e colocando ideias em prática através do código.
 
-- 🎓 Graduanda em Ciência da Computação  
-- 🏫 Integrante da LAICT  
+- 🎓 Graduanda em Ciência da Computação (3/8)
+- 🏫 Integrante da LAICT (Liga Acadêmica de Inovação, Ciência e Tecnologia)
 - 💻 Projetos acadêmicos e práticos  
 - 🧩 Interesse em interfaces digitais e história da computação  
 
@@ -26,7 +26,7 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
 
 <td width="50%" valign="top">
 
-## 🛠 Tecnologias & Ferramentas
+##   Tecnologias & Ferramentas
 
 <div align="left">
 
@@ -38,7 +38,7 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
 <img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" />
+<img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="35" />
 <img width="10" />
@@ -46,11 +46,9 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
 <img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
-<img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
 <img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
 
@@ -58,7 +56,7 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
 
 ---
 
-## 📚 Certificações
+##   Certificações
 
 <a href="https://www.credly.com/badges/5d1c1844-b57f-49ad-a033-1188130b93f7/public_url" target="_blank">
   <img src="https://occasional-jade-wg9ebltlg0.edgeone.app/google-ai-essentials-v1-removebg-preview.png" height="105"/>
@@ -76,48 +74,27 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
   <img src="https://assets.dio.me/3PNEUWCamlIqYrkN0lvXAvk-KWcSx6VbbNXT0og_5Mw/f:webp/q:80/w:120/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" height="90"/>
 </a>
 
-## 🌐 Conecte-se comigo
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/maria-luiza-benevides" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=75513d&logoColor=black&labelColor=black&style=for-the-badge" height="35"/>
-  </a>
-
-  <a href="https://www.behance.net/marialbenevides" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&label=&color=75513d&logoColor=black&labelColor=black&style=for-the-badge" height="35"/>
-  </a>
-</div>
-
-</div>
-</td>
-</tr>
-</table>
-</div>
-
 ---
 
-###
-
-## 🌐 Conecte-se comigo
+##   Conecte-se comigo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/maria-luiza-benevides" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=75513d&logoColor=black&labelColor=black&style=for-the-badge" height="35"/>
+  <a href="https://www.linkedin.com/in/maria-luiza-benevides/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-
   <a href="https://www.behance.net/marialbenevides" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&label=&color=75513d&logoColor=black&labelColor=black&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+  <a href="https://www.instagram.com/malu.codess" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@malu.codess" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
 
+</div>
 </td>
 </tr>
 </table>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malucodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
