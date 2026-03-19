@@ -69,7 +69,10 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
-
+<img width="10" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=9&theme=dark&hide_border=false" height="500" alt="languages graph"  />
+  </div>
 </div>
 
 ---
