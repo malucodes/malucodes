@@ -10,9 +10,7 @@
 
 #   Sobre mim
 
-Estudante de Ciência da Computação e Inteligência Artificial Aplicada construindo projetos, explorando conceitos e colocando ideias em prática através do código.
-
-- 🎓 Graduanda em Ciência da Computação (3/8) | Inteligência Artificial Aplicada - PUCPR (1/5)
+- 🎓 Sou graduanda em Ciência da Computação (3/8) | Inteligência Artificial Aplicada - PUCPR (1/5)
 - 🏫 Integrante da LAICT (Liga Acadêmica de Inovação, Ciência e Tecnologia)
 - 💻 Projetos acadêmicos e práticos  
 - 🧩 Interesse em interfaces digitais e história da computação  
