@@ -1,5 +1,5 @@
-<div align="center" height="200">
-<img src="./images/notification-message.png" alt="olá, eu sou a malu" />
+<div align="center">
+<img src="./images/notification-message.png" alt="olá, eu sou a malu" height="800" />
 </div>
 
 ##  about me ✦
