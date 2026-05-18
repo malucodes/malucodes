@@ -7,9 +7,9 @@
 <img src="./images/laptop.svg" height="20" style="vertical-align: middle;" /> &nbsp; cs & applied ai student @ pucpr<br />
 <img src="./images/trophy.svg" height="20" style="vertical-align: middle;" /> &nbsp; president of laict
 
-## fav repos ✧
+## fav digital archives ✧
 
-| name | description |
+| repository | description |
 |------|---------------|
 | [`Certification Bagde README`](https://github.com/malucodes/Certification-Badge-README.git) | badges ready for GitHub certifications |
 | [`Jardim Gestor de Conhecimento`](https://github.com/malucodes/Jardim-Gestor.git) | playful organization for personal projects  |
@@ -33,7 +33,8 @@
 
 ## let's connect ⊹ 
 
-feel free to explore my digital artifacts. let's talk about ai, web-archaeology, and women in tech. if you use any of my code or get inspired, tag me! 
+feel free to explore my digital artifacts. let's talk about ai, web-archaeology, and women in tech. if you use any of my code or get inspired, tag me! <img src="./images/love-letter.svg" height="20" style="vertical-align: middle;" /> &nbsp;
 
-↳ tiktok: [`@malu.codess`](https://tiktok.com/@malu.codess) 
-↳ instagram: [`@malu.codess`](https://instagram.com/malu.codess)
+#### ↳ tiktok: [`@malu.codess`](https://tiktok.com/@malu.codess) 
+#### ↳ instagram: [`@malu.codess`](https://instagram.com/malu.codess)
+#### ↳ linkedin: [`Malu Benevides`](https://www.linkedin.com/in/maria-luiza-benevides/)
