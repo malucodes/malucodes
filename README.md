@@ -12,7 +12,7 @@
 | repository | description |
 |------|---------------|
 | [`Certification Bagde README`](https://github.com/malucodes/Certification-Badge-README.git) | badges ready for GitHub certifications |
-| [`Jardim Gestor de Conhecimento`](https://github.com/malucodes/Jardim-Gestor.git) | playful organization for personal projects  |
+| [`CiberJardim`](https://github.com/malucodes/Jardim-Gestor.git) | playful organization for personal projects  |
 | [`Orkut`](https://github.com/malucodes/Orkut-Clone.git) | a modern tribute to the classic social network  |
 
 ##  toolkit ✲
