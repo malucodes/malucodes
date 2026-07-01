@@ -1,11 +1,3 @@
-<div align="right">
-  <a href="README-en.md">
-    <img alt="Inglês" src="https://img.shields.io/badge/Inglês-blue?style=flat-square">
-  </a>
-  <a href="README.md">
-    <img alt="Português" src="https://img.shields.io/badge/Português-green?style=flat-square">
-  </a>
-</div>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/ios-note-dark.png" height="100">
@@ -16,7 +8,8 @@
 </picture>
 </div>
 
-##  about me ✦
+##  about me ✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![English](https://img.shields.io/badge/English-blue?style=flat-square)](README-en.md) [![Portuguese](https://img.shields.io/badge/Portuguese-green?style=flat-square)](README.md)
+
 <img src="./images/tulip.svg" height="20" style="vertical-align: middle;" /> &nbsp; tech content creator from rio de janeiro, brasil<br />
 <img src="./images/laptop.svg" height="20" style="vertical-align: middle;" /> &nbsp; cs & applied ai student @ pucpr<br />
 <img src="./images/trophy.svg" height="20" style="vertical-align: middle;" /> &nbsp; president of laict
