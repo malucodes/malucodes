@@ -8,7 +8,9 @@
 </picture>
 </div>
 
-##  about me ✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![English](https://img.shields.io/badge/English-20232A?style=flat-square)](README-en.md) [![Portuguese](https://img.shields.io/badge/Portuguese-20232A?style=flat-square)](README.md)
+[![English](https://img.shields.io/badge/English-20232A?style=flat-square)](README-en.md) [![Portuguese](https://img.shields.io/badge/Portuguese-20232A?style=flat-square)](README.md)
+
+##  about me ✦
 
 <img src="./images/tulip.svg" height="20" style="vertical-align: middle;" /> &nbsp; tech content creator from rio de janeiro, brasil<br />
 <img src="./images/laptop.svg" height="20" style="vertical-align: middle;" /> &nbsp; cs & applied ai student @ pucpr<br />
