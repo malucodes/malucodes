@@ -1,5 +1,11 @@
 <div align="center">
-<img src="./images/notification-message.png" alt="olá, eu sou a malu" height="800" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/ios-note-dark.png" height="100">
+  
+  <source media="(prefers-color-scheme: light)" srcset="./images/ios-note-light.png" height="100">
+  
+  <img alt="Texto alternativo da sua imagem" src="./images/ios-note-light.png" height="100">
+</picture>
 </div>
 
 ##  about me ✦
