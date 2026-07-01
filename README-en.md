@@ -1,9 +1,9 @@
 <div align="right">
   <a href="README-en.md">
-    <img alt="English" src="https://img.shields.io/badge/English-blue?style=flat-square">
+    <img alt="Inglês" src="https://img.shields.io/badge/Inglês-blue?style=flat-square">
   </a>
   <a href="README.md">
-    <img alt="Portuguese" src="https://img.shields.io/badge/Portuguese-green?style=flat-square">
+    <img alt="Português" src="https://img.shields.io/badge/Português-green?style=flat-square">
   </a>
 </div>
 <div align="center">
@@ -16,20 +16,20 @@
 </picture>
 </div>
 
-##  sobre mim ✦
-<img src="./images/tulip.svg" height="20" style="vertical-align: middle;" /> &nbsp; criadora de conteúdo tech do rio de janeiro, brasil<br />
-<img src="./images/laptop.svg" height="20" style="vertical-align: middle;" /> &nbsp; estudante de ciência da computação & ia aplicada @ pucpr<br />
-<img src="./images/trophy.svg" height="20" style="vertical-align: middle;" /> &nbsp; presidente da laict
+##  about me ✦
+<img src="./images/tulip.svg" height="20" style="vertical-align: middle;" /> &nbsp; tech content creator from rio de janeiro, brasil<br />
+<img src="./images/laptop.svg" height="20" style="vertical-align: middle;" /> &nbsp; cs & applied ai student @ pucpr<br />
+<img src="./images/trophy.svg" height="20" style="vertical-align: middle;" /> &nbsp; president of laict
 
-## arquivos digitais favoritos ✧
+## fav digital archives ✧
 
-| repositório | descrição |
+| repository | description |
 |------|---------------|
-| [`Certification Bagde README`](https://github.com/malucodes/Certification-Badge-README.git) | badges prontos para certificações no GitHub |
-| [`CiberJardim`](https://github.com/malucodes/Jardim-Gestor.git) | organização lúdica para projetos pessoais  |
-| [`Orkut`](https://github.com/malucodes/Orkut-Clone.git) | um tributo moderno à clássica rede social  |
+| [`Certification Bagde README`](https://github.com/malucodes/Certification-Badge-README.git) | badges ready for GitHub certifications |
+| [`CiberJardim`](https://github.com/malucodes/Jardim-Gestor.git) | playful organization for personal projects  |
+| [`Orkut`](https://github.com/malucodes/Orkut-Clone.git) | a modern tribute to the classic social network  |
 
-##  ferramentas ✲
+##  toolkit ✲
 
 <p align="left">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" height="18" />
@@ -45,12 +45,10 @@
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="18" />
 </p>
 
-## vamos nos conectar ⊹ 
+## let's connect ⊹ 
 
-fique à vontade para explorar meus artefatos digitais. vamos conversar sobre ia, arqueologia da web e mulheres na tecnologia. se você usar algum dos meus códigos ou se inspirar, me marque! <img src="./images/love-letter.svg" height="20" style="vertical-align: middle;" /> &nbsp;
+feel free to explore my digital artifacts. let's talk about ai, web-archaeology, and women in tech. if you use any of my code or get inspired, tag me! <img src="./images/love-letter.svg" height="20" style="vertical-align: middle;" /> &nbsp;
 
 #### ↳ tiktok: [`@malu.codess`](https://tiktok.com/@malu.codess) 
 #### ↳ instagram: [`@malu.codess`](https://instagram.com/malu.codess)
 #### ↳ linkedin: [`Malu Benevides`](https://www.linkedin.com/in/maria-luiza-benevides/)
-
-```
