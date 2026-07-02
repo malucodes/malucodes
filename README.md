@@ -8,8 +8,6 @@
 </picture>
 </div>
 
-[![English](https://img.shields.io/badge/English-20232A?style=flat-square)](README-en.md) [![Portuguese](https://img.shields.io/badge/Portuguese-20232A?style=flat-square)](README.md)
-
 ## sobre mim ✦
 
 <img src="./images/tulip.svg" height="20" style="vertical-align: middle;" /> &nbsp; criadora de conteúdo tech do rio de janeiro, brasil<br />
@@ -47,3 +45,5 @@ fique à vontade para explorar meus artefatos digitais. vamos conversar sobre ia
 #### ↳ tiktok: [`@malu.codess`](https://tiktok.com/@malu.codess) 
 #### ↳ instagram: [`@malu.codess`](https://instagram.com/malu.codess)
 #### ↳ linkedin: [`Malu Benevides`](https://www.linkedin.com/in/maria-luiza-benevides/)
+
+[![English](https://img.shields.io/badge/English-20232A?style=flat-square)](README-en.md) [![Portuguese](https://img.shields.io/badge/Portuguese-20232A?style=flat-square)](README.md)
