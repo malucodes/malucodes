@@ -12,7 +12,7 @@
 
 <img src="./images/tulip.svg" height="20" style="vertical-align: middle;" /> &nbsp; criadora de conteúdo tech do rio de janeiro, brasil<br />
 <img src="./images/laptop.svg" height="20" style="vertical-align: middle;" /> &nbsp; estudante de ciência da computação & ia aplicada @ pucpr<br />
-<img src="./images/trophy.svg" height="20" style="vertical-align: middle;" /> &nbsp; presidente da laict
+<img src="./images/trophy.svg" height="20" style="vertical-align: middle;" /> &nbsp; presidente da laict e desenvolvedora de projetos @ tech sisters
 
 ## arquivos digitais favoritos ✧
 

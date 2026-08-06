@@ -12,7 +12,7 @@
 
 <img src="./images/tulip.svg" height="20" style="vertical-align: middle;" /> &nbsp; tech content creator from rio de janeiro, brasil<br />
 <img src="./images/laptop.svg" height="20" style="vertical-align: middle;" /> &nbsp; cs & applied ai student @ pucpr<br />
-<img src="./images/trophy.svg" height="20" style="vertical-align: middle;" /> &nbsp; president of laict
+<img src="./images/trophy.svg" height="20" style="vertical-align: middle;" /> &nbsp; president of laict and developer of projects @ tech sisters
 
 ## fav digital archives ✧
 
