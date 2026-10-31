@@ -45,6 +45,10 @@
   <img src="https://cdn.simpleicons.org/c/00599C" height="32" alt="c logo" /> &nbsp;&nbsp;
 </p>
 
+## educational content +
+
+> tech tutorials, guides, and study materials are currently brewing... coming very soon! ☕
+
 ## let's connect ⊹ 
 
 feel free to explore my digital artifacts. let's talk about ai, web-archaeology, and women in tech. if you use any of my code or get inspired, tag me! <img src="./images/love-letter.svg" height="20" style="vertical-align: middle;" /> &nbsp;
