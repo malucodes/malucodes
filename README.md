@@ -16,8 +16,8 @@
 
 | repository | description |
 |------|---------------|
-| [`FinanciAI`](#) | java-based real estate financing simulator with oop |
-| [`Momentum Punch`](#) | quant strategy model with local llm & markowitz optimization |
+| [`FinanciAI`](https://github.com/malucodes/Sistema-Financiamento-Imoveis.git) | java-based real estate financing simulator with oop |
+| [`Momentum Punch`](https://github.com/malucodes/Momentum_punch_optimizer-.git) | quant strategy model with local llm & markowitz optimization |
 | [`CiberJardim`](https://github.com/malucodes/Jardim-Gestor.git) | full-stack gamified task management linked w/ google tasks api |
 | [`Orkut`](https://github.com/malucodes/Orkut-Clone.git) | a functional tribute to the classic social network |
 
@@ -54,6 +54,6 @@
 feel free to explore my digital artifacts. let's talk about ai, web-archaeology, and women in tech. if you use any of my code or get inspired, tag me! <img src="./images/love-letter.svg" height="20" style="vertical-align: middle;" /> &nbsp;
 
 #### ↳ tiktok: [`@malu.codess`](https://tiktok.com/@malu.codess) 
-#### ↳ instagram: [`@malu.codess`](https://instagram.com/malu.codess)
-#### ↳ youtube: [`@malu.codes`](https://youtube.com/@malu.codes)
+#### ↳ instagram: [`@malu.codes`](https://instagram.com/malu.codes)
+#### ↳ youtube: [`@malucodess`](https://youtube.com/@malucodess)
 #### ↳ linkedin: [`Malu Benevides`](https://www.linkedin.com/in/maria-luiza-benevides/)
