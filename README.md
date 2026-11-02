@@ -23,9 +23,9 @@
 
 ## medium articles ✧
 
-↳ [a arqueologia da web e as barreiras do tempo](https://medium.com/@malu.codess) - analyzing web history, architecture, and creative destruction.
+↳ [a arqueologia da web e as barreiras do tempo](https://malucodes.medium.com/a-arqueologia-da-web-e-as-barreiras-do-tempo-c1aa1d6adb2e) - analyzing web history, architecture, and creative destruction.
 
--- see more on my [medium profile](https://medium.com/@malu.codess)!
+-- see more on my [medium profile](https://malucodes.medium.com)!
 
 ##  toolkit ✲
 
